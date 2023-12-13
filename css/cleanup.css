@@ -1,1 +1,21 @@
-/* write your override styles here */
+//* Hide tag-1 */
+#wall .tag-1 {
+    display: none;
+  }
+  
+  /* Hide tag-2 */
+  #wall .tag-2 {
+    display: none;
+  }
+  
+  /* Hide tag-3 */
+  #wall .tag-3 {
+    display: none;
+  }
+  
+  /* Hide tag-4 */
+  #wall .tag-4 {
+    display: none;
+  }
+  
+  /* Add more selectors as needed for other tags */
